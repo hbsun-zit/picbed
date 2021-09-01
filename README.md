@@ -1,2 +1,2 @@
 # picbed
-my figure bed
+my figure bed repo
